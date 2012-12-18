@@ -1,3 +1,4 @@
+#password generation
 def passgen(size=None):
   import random
   import string
